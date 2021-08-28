@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 223974228}
   - component: {fileID: 223974229}
   m_Layer: 0
-  m_Name: AppLauncher
+  m_Name: MRUnitItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
